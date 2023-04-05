@@ -20,3 +20,5 @@ print("this is krishna")
 print("Apple","banana","pineapple",sep=",",end="India")
 print("Apple","banana","pineapple",sep=",")
 print("this is krishna \n\bumar","India",end="\t")
+
+print("this is something new")
