@@ -16,3 +16,5 @@ Data type:
 6. Set  --> set
 7. dictionary --> dict
 8. frozenset --> 
+9. boolean --> bool
+10. complex 

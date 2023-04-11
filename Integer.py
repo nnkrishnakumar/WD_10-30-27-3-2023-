@@ -6,3 +6,9 @@ b=20
 c=a+b
 print(c)
 
+#constructor of integer int()
+a=int()
+print(a)
+b=0    #create empty integer using literal 
+print(b)
+
