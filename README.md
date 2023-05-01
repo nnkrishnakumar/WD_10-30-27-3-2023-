@@ -18,3 +18,5 @@ Data type:
 8. frozenset --> 
 9. boolean --> bool
 10. complex 
+
+11. Operators
