@@ -20,3 +20,13 @@ Data type:
 10. complex 
 
 11. Operators
+
+12. casting (working ) 
+13. input
+14. conditional programming 
+    > if else
+    > if elif else
+    > nested if else
+    > nested if elif else
+15. format and f sting 
+
